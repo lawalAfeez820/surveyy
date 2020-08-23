@@ -1,0 +1,39 @@
+.body{background-color:#8A2BE2;}
+.cont{padding:10vw;
+color:White;
+font-size:2rem;
+font-style:bold;}
+.in{width:50rem;
+margin-bottom:5rem;
+height:5rem}
+
+.ba{width:50rem;
+
+height:20rem}
+
+.we{margin:3rem 0;
+font-size:2.7rem
+
+}
+
+.bt{width:50rem;
+background-color:Red;
+height:5rem;
+font-size:3rem}
+input[placeholder]{padding-left:2rem;}
+
+input[type=checkbox] { transform: scale(1.5); -ms-transform: scale(1.5); -webkit-transform: scale(1.5); padding:5rem;margin-right:2rem;
+margin-top:2rem; }
+
+
+input[type=radio] { transform: scale(4); -ms-transform: scale(4); -webkit-transform: scale(4); padding:5rem;margin-right:2rem;
+margin-top:2rem; }
+
+.he{margin:5rem 0;
+font-size:7rem;}
+
+.op{width:200rem;}
+.x{font-size:2.5rem;}
+}
+.d{font-size:2.5rem; 
+margin-left:20%;}
